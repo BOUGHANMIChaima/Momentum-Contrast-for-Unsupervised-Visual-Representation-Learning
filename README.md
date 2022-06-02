@@ -124,8 +124,60 @@ Les résultats sont comparables à ceux que nous avons obtenus à l’aide d’u
 Nous pouvons ajouter que d’autres améliorations incluent l’adaptation du modèle pour
 fonctionner de manière semi-supervisée.
 
-## Références
 
+## Références
+[1] Philip Bachman, R Devon Hjelm et William Buchwalter. “Learning representa-
+tions by maximizing mutual information across views”. In : Advances in neural infor-
+mation processing systems 32 (2019).
+
+[2] Ken Chatfield et al. “The devil is in the details : an evaluation of recent feature
+encoding methods.” In : BMVC. T. 2. 4. 2011, p. 8.
+
+[3] Ting Chen et al. “A simple framework for contrastive learning of visual representa-
+tions”. In : International conference on machine learning. PMLR. 2020, p. 1597-1607.
+
+[4] Adam Coates et Andrew Y Ng. “The importance of encoding versus training with
+sparse coding and vector quantization”. In : ICML. 2011.
+[5] Jacob Devlin et al. “Bert : Pre-training of deep bidirectional transformers for language
+understanding”. In : arXiv preprint arXiv :1810.04805 (2018).
+
+[6] Raia Hadsell, Sumit Chopra et Yann LeCun. “Dimensionality reduction by lear-
+ning an invariant mapping”. In : 2006 IEEE Computer Society Conference on Computer
+
+Vision and Pattern Recognition (CVPR’06). T. 2. IEEE. 2006, p. 1735-1742.
+
+[7] Kaiming He et al. “Momentum contrast for unsupervised visual representation lear-
+ning”. In : Proceedings of the IEEE/CVF conference on computer vision and pattern
+
+recognition. 2020, p. 9729-9738.
+[8] Olivier Henaff. “Data-efficient image recognition with contrastive predictive coding”.
+In : International Conference on Machine Learning. PMLR. 2020, p. 4182-4192.
+
+[9] R Devon Hjelm et al. “Learning deep representations by mutual information estima-
+tion and maximization”. In : arXiv preprint arXiv :1808.06670 (2018).
+
+[10] Aaron van den Oord, Yazhe Li et Oriol Vinyals. “Representation learning with
+contrastive predictive coding”. In : arXiv preprint arXiv :1807.03748 (2018).
+[11] Alec Radford et Jeffrey Wu. “Rewon child, david luan, dario amodei, and ilya
+sutskever. 2019”. In : Language models are unsupervised multitask learners. OpenAI
+Blog 1.8 (2019), p. 9.
+[12] Alec Radford et al. “Improving language understanding by generative pre-training”.
+In : (2018).
+[13] Josef Sivic et Andrew Zisserman. “Video Google : A text retrieval approach to
+object matching in videos”. In : Computer Vision, IEEE International Conference on.
+T. 3. IEEE Computer Society. 2003, p. 1470-1470.
+[14] Yonglong Tian, Dilip Krishnan et Phillip Isola. “Contrastive multiview coding”.
+In : European conference on computer vision. Springer. 2020, p. 776-794.
+
+[15] Zhirong Wu et al. “Unsupervised feature learning via non-parametric instance dis-
+crimination”. In : Proceedings of the IEEE conference on computer vision and pattern
+
+recognition. 2018, p. 3733-3742.
+
+[16] Chengxu Zhuang, Alex Lin Zhai et Daniel Yamins. “Local aggregation for unsuper-
+vised learning of visual embeddings”. In : Proceedings of the IEEE/CVF International
+
+Conference on Computer Vision. 2019, p. 6002-6012.
 
 
 
